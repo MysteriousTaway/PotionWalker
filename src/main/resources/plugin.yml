@@ -1,0 +1,4 @@
+name: ALP_Minecraft_Projekt
+version: ${project.version}
+main: com.company.alp_minecraftprojekt.Main
+api-version: 1.16

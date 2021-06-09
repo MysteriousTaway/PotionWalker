@@ -1,0 +1,1330 @@
+# CONFIG:
+#	example:
+#Stone:
+#	effect: "JUMP"
+#	duration: 1
+#
+#ALL POSSIBLE EFFECTS:
+# ABSORPTION
+# BAD_OMEN
+# BLINDNESS
+# CONDUIT_POWER
+# CONFUSION
+# DAMAGE_RESISTANCE
+# DOLPHINS_GRACE
+# FAST_DIGGING
+# FIRE_RESISTANCE
+# GLOWING
+# HARM
+# HEAL
+# HEALTH_BOOST
+# HERO_OF_THE_VILLAGE
+# HUNGER
+# INCREASE_DAMAGE
+# INVISIBILITY
+# JUMP
+# LEVITATION
+# LUCK
+# NIGHT_VISION
+# POISON
+# REGENERATION
+# SATURATION
+# SLOW
+# SLOW_DIGGING
+# SLOW_FALLING
+# SPEED
+# UNLUCK
+# WATER_BREATHING
+# WEAKNESS
+# WITHER
+
+
+# CONFIG:
+
+Stone:
+  effect: null
+  duration: null
+Granite:
+  effect: null
+  duration: null
+Polished_Granite:
+  effect: null
+  duration: null
+Diorite:
+  effect: null
+  duration: null
+Polished_Diorite:
+  effect: null
+  duration: null
+Andesite:
+  effect: null
+  duration: null
+Polished_Andesite:
+  effect: null
+  duration: null
+Grass_Block:
+  effect: null
+  duration: null
+Dirt:
+  effect: null
+  duration: null
+Coarse_Dirt:
+  effect: null
+  duration: null
+Podzol:
+  effect: null
+  duration: null
+Cobblestone:
+  effect: null
+  duration: null
+Oak_Wood_Plank:
+  effect: null
+  duration: null
+Spruce_Wood_Plank:
+  effect: null
+  duration: null
+Birch_Wood_Plank:
+  effect: null
+  duration: null
+Jungle_Wood_Plank:
+  effect: null
+  duration: null
+Acacia_Wood_Plank:
+  effect: null
+  duration: null
+Dark_Oak_Wood_Plank:
+  effect: null
+  duration: null
+Oak_Sapling:
+  effect: null
+  duration: null
+Spruce_Sapling:
+  effect: null
+  duration: null
+Birch_Sapling:
+  effect: null
+  duration: null
+Jungle_Sapling:
+  effect: null
+  duration: null
+Acacia_Sapling:
+  effect: null
+  duration: null
+Dark_Oak_Sapling:
+  effect: null
+  duration: null
+Bedrock:
+  effect: null
+  duration: null
+Flowing_Water:
+  effect: null
+  duration: null
+Still_Water:
+  effect: null
+  duration: null
+Flowing_Lava:
+  effect: null
+  duration: null
+Still_Lava:
+  effect: null
+  duration: null
+Sand:
+  effect: null
+  duration: null
+Red_Sand:
+  effect: null
+  duration: null
+Gravel:
+  effect: null
+  duration: null
+Gold_Ore:
+  effect: null
+  duration: null
+Iron_Ore:
+  effect: null
+  duration: null
+Coal_Ore:
+  effect: null
+  duration: null
+Oak_Wood:
+  effect: null
+  duration: null
+Spruce_Wood:
+  effect: null
+  duration: null
+Birch_Wood:
+  effect: null
+  duration: null
+Jungle_Wood:
+  effect: null
+  duration: null
+Oak_Leaves:
+  effect: null
+  duration: null
+Spruce_Leaves:
+  effect: null
+  duration: null
+Birch_Leaves:
+  effect: null
+  duration: null
+Jungle_Leaves:
+  effect: null
+  duration: null
+Sponge:
+  effect: null
+  duration: null
+Wet_Sponge:
+  effect: null
+  duration: null
+Glass:
+  effect: null
+  duration: null
+Lapis_Lazuli_Ore:
+  effect: null
+  duration: null
+Lapis_Lazuli_Block:
+  effect: null
+  duration: null
+Dispenser:
+  effect: null
+  duration: null
+Sandstone:
+  effect: null
+  duration: null
+Chiseled_Sandstone:
+  effect: null
+  duration: null
+Smooth_Sandstone:
+  effect: null
+  duration: null
+Note_Block:
+  effect: null
+  duration: null
+Bed:
+  effect: null
+  duration: null
+Powered_Rail:
+  effect: null
+  duration: null
+Detector_Rail:
+  effect: null
+  duration: null
+Sticky_Piston:
+  effect: null
+  duration: null
+Cobweb:
+  effect: null
+  duration: null
+Dead_Shrub:
+  effect: null
+  duration: null
+Grass:
+  effect: null
+  duration: null
+Fern:
+  effect: null
+  duration: null
+Dead_Bush:
+  effect: null
+  duration: null
+Piston:
+  effect: null
+  duration: null
+Piston_Head:
+  effect: null
+  duration: null
+White_Wool:
+  effect: null
+  duration: null
+Orange_Wool:
+  effect: null
+  duration: null
+Magenta_Wool:
+  effect: null
+  duration: null
+Light_Blue_Wool:
+  effect: null
+  duration: null
+Yellow_Wool:
+  effect: null
+  duration: null
+Lime_Wool:
+  effect: null
+  duration: null
+Pink_Wool:
+  effect: null
+  duration: null
+Gray_Wool:
+  effect: null
+  duration: null
+Light_Gray_Wool:
+  effect: null
+  duration: null
+Cyan_Wool:
+  effect: null
+  duration: null
+Purple_Wool:
+  effect: null
+  duration: null
+Blue_Wool:
+  effect: null
+  duration: null
+Brown_Wool:
+  effect: null
+  duration: null
+Green_Wool:
+  effect: null
+  duration: null
+Red_Wool:
+  effect: null
+  duration: null
+Black_Wool:
+  effect: null
+  duration: null
+Dandelion:
+  effect: null
+  duration: null
+Poppy:
+  effect: null
+  duration: null
+Blue_Orchid:
+  effect: null
+  duration: null
+Allium:
+  effect: null
+  duration: null
+Azure_Bluet:
+  effect: null
+  duration: null
+Red_Tulip:
+  effect: null
+  duration: null
+Orange_Tulip:
+  effect: null
+  duration: null
+White_Tulip:
+  effect: null
+  duration: null
+Pink_Tulip:
+  effect: null
+  duration: null
+Oxeye_Daisy:
+  effect: null
+  duration: null
+Brown_Mushroom:
+  effect: null
+  duration: null
+Red_Mushroom:
+  effect: null
+  duration: null
+Gold_Block:
+  effect: null
+  duration: null
+Iron_Block:
+  effect: null
+  duration: null
+Double_Stone_Slab:
+  effect: null
+  duration: null
+Double_Sandstone_Slab:
+  effect: null
+  duration: null
+Double_Wooden_Slab:
+  effect: null
+  duration: null
+Double_Cobblestone_Slab:
+  effect: null
+  duration: null
+Double_Brick_Slab:
+  effect: null
+  duration: null
+Double_Stone_Brick_Slab:
+  effect: null
+  duration: null
+Double_Nether_Brick_Slab:
+  effect: null
+  duration: null
+Double_Quartz_Slab:
+  effect: null
+  duration: null
+Stone_Slab:
+  effect: null
+  duration: null
+Sandstone_Slab:
+  effect: null
+  duration: null
+Wooden_Slab:
+  effect: null
+  duration: null
+Cobblestone_Slab:
+  effect: null
+  duration: null
+Brick_Slab:
+  effect: null
+  duration: null
+Stone_Brick_Slab:
+  effect: null
+  duration: null
+Nether_Brick_Slab:
+  effect: null
+  duration: null
+Quartz_Slab:
+  effect: null
+  duration: null
+Bricks:
+  effect: null
+  duration: null
+TNT:
+  effect: null
+  duration: null
+Bookshelf:
+  effect: null
+  duration: null
+Moss_Stone:
+  effect: null
+  duration: null
+Obsidian:
+  effect: null
+  duration: null
+Torch:
+  effect: null
+  duration: null
+Fire:
+  effect: null
+  duration: null
+Monster_Spawner:
+  effect: null
+  duration: null
+Oak_Wood_Stairs:
+  effect: null
+  duration: null
+Chest:
+  effect: null
+  duration: null
+Redstone_Wire:
+  effect: null
+  duration: null
+Diamond_Ore:
+  effect: null
+  duration: null
+Diamond_Block:
+  effect: null
+  duration: null
+Crafting_Table:
+  effect: null
+  duration: null
+Wheat_Crops:
+  effect: null
+  duration: null
+Farmland:
+  effect: null
+  duration: null
+Furnace:
+  effect: null
+  duration: null
+Burning_Furnace:
+  effect: null
+  duration: null
+Standing_Sign_Block:
+  effect: null
+  duration: null
+Oak_Door_Block:
+  effect: null
+  duration: null
+Ladder:
+  effect: null
+  duration: null
+Rail:
+  effect: null
+  duration: null
+Cobblestone_Stairs:
+  effect: null
+  duration: null
+Wall-mounted_Sign_Block:
+  effect: null
+  duration: null
+Lever:
+  effect: null
+  duration: null
+Stone_Pressure_Plate:
+  effect: null
+  duration: null
+Iron_Door_Block:
+  effect: null
+  duration: null
+Wooden_Pressure_Plate:
+  effect: null
+  duration: null
+Redstone_Ore:
+  effect: null
+  duration: null
+Glowing_Redstone_Ore:
+  effect: null
+  duration: null
+Stone_Button:
+  effect: null
+  duration: null
+Snow:
+  effect: null
+  duration: null
+Ice:
+  effect: null
+  duration: null
+Snow_Block:
+  effect: null
+  duration: null
+Cactus:
+  effect: null
+  duration: null
+Clay:
+  effect: null
+  duration: null
+Sugar_Canes:
+  effect: null
+  duration: null
+Jukebox:
+  effect: null
+  duration: null
+Oak_Fence:
+  effect: null
+  duration: null
+Pumpkin:
+  effect: null
+  duration: null
+Netherrack:
+  effect: null
+  duration: null
+Soul_Sand:
+  effect: null
+  duration: null
+Glowstone:
+  effect: null
+  duration: null
+Nether_Portal:
+  effect: null
+  duration: null
+Jack_o'Lantern:
+  effect: null
+  duration: null
+Cake_Block:
+  effect: null
+  duration: null
+White_Stained_Glass:
+  effect: null
+  duration: null
+Orange_Stained_Glass:
+  effect: null
+  duration: null
+Magenta_Stained_Glass:
+  effect: null
+  duration: null
+Light_Blue_Stained_Glass:
+  effect: null
+  duration: null
+Yellow_Stained_Glass:
+  effect: null
+  duration: null
+Lime_Stained_Glass:
+  effect: null
+  duration: null
+Pink_Stained_Glass:
+  effect: null
+  duration: null
+Gray_Stained_Glass:
+  effect: null
+  duration: null
+Light_Gray_Stained_Glass:
+  effect: null
+  duration: null
+Cyan_Stained_Glass:
+  effect: null
+  duration: null
+Purple_Stained_Glass:
+  effect: null
+  duration: null
+Blue_Stained_Glass:
+  effect: null
+  duration: null
+Brown_Stained_Glass:
+  effect: null
+  duration: null
+Green_Stained_Glass:
+  effect: null
+  duration: null
+Red_Stained_Glass:
+  effect: null
+  duration: null
+Black_Stained_Glass:
+  effect: null
+  duration: null
+Wooden_Trapdoor:
+  effect: null
+  duration: null
+Stone_Monster_Egg:
+  effect: null
+  duration: null
+Cobblestone_Monster_Egg:
+  effect: null
+  duration: null
+Stone_Brick_Monster_Egg:
+  effect: null
+  duration: null
+Mossy_Stone_Brick_Monster_Egg:
+  effect: null
+  duration: null
+Cracked_Stone_Brick_Monster_Egg:
+  effect: null
+  duration: null
+Chiseled_Stone_Brick_Monster_Egg:
+  effect: null
+  duration: null
+Stone_Bricks:
+  effect: null
+  duration: null
+Mossy_Stone_Bricks:
+  effect: null
+  duration: null
+Cracked_Stone_Bricks:
+  effect: null
+  duration: null
+Chiseled_Stone_Bricks:
+  effect: null
+  duration: null
+Brown_Mushroom_Block:
+  effect: null
+  duration: null
+Red_Mushroom_Block:
+  effect: null
+  duration: null
+Iron_Bars:
+  effect: null
+  duration: null
+Glass_Pane:
+  effect: null
+  duration: null
+Melon_Block:
+  effect: null
+  duration: null
+Pumpkin_Stem:
+  effect: null
+  duration: null
+Melon_Stem:
+  effect: null
+  duration: null
+Vines:
+  effect: null
+  duration: null
+Oak_Fence_Gate:
+  effect: null
+  duration: null
+Brick_Stairs:
+  effect: null
+  duration: null
+Stone_Brick_Stairs:
+  effect: null
+  duration: null
+Mycelium:
+  effect: null
+  duration: null
+Lily_Pad:
+  effect: null
+  duration: null
+Nether_Brick:
+  effect: null
+  duration: null
+Nether_Brick_Fence:
+  effect: null
+  duration: null
+Nether_Brick_Stairs:
+  effect: null
+  duration: null
+Nether_Wart:
+  effect: null
+  duration: null
+Enchantment_Table:
+  effect: null
+  duration: null
+Brewing_Stand:
+  effect: null
+  duration: null
+Cauldron:
+  effect: null
+  duration: null
+End_Portal:
+  effect: null
+  duration: null
+End_Portal_Frame:
+  effect: null
+  duration: null
+End_Stone:
+  effect: null
+  duration: null
+Dragon_Egg:
+  effect: null
+  duration: null
+Double_Oak_Wood_Slab:
+  effect: null
+  duration: null
+Double_Spruce_Wood_Slab:
+  effect: null
+  duration: null
+Double_Birch_Wood_Slab:
+  effect: null
+  duration: null
+Double_Jungle_Wood_Slab:
+  effect: null
+  duration: null
+Double_Acacia_Wood_Slab:
+  effect: null
+  duration: null
+Double_Dark_Oak_Wood_Slab:
+  effect: null
+  duration: null
+Oak_Wood_Slab:
+  effect: null
+  duration: null
+Spruce_Wood_Slab:
+  effect: null
+  duration: null
+Birch_Wood_Slab:
+  effect: null
+  duration: null
+Jungle_Wood_Slab:
+  effect: null
+  duration: null
+Acacia_Wood_Slab:
+  effect: null
+  duration: null
+Dark_Oak_Wood_Slab:
+  effect: null
+  duration: null
+Cocoa:
+  effect: null
+  duration: null
+Sandstone_Stairs:
+  effect: null
+  duration: null
+Emerald_Ore:
+  effect: null
+  duration: null
+Ender_Chest:
+  effect: null
+  duration: null
+Tripwire_Hook:
+  effect: null
+  duration: null
+Tripwire:
+  effect: null
+  duration: null
+Emerald_Block:
+  effect: null
+  duration: null
+Spruce_Wood_Stairs:
+  effect: null
+  duration: null
+Birch_Wood_Stairs:
+  effect: null
+  duration: null
+Jungle_Wood_Stairs:
+  effect: null
+  duration: null
+Command_Block:
+  effect: null
+  duration: null
+Beacon:
+  effect: null
+  duration: null
+Cobblestone_Wall:
+  effect: null
+  duration: null
+Mossy_Cobblestone_Wall:
+  effect: null
+  duration: null
+Flower_Pot:
+  effect: null
+  duration: null
+Carrots:
+  effect: null
+  duration: null
+Potatoes:
+  effect: null
+  duration: null
+Wooden_Button:
+  effect: null
+  duration: null
+Mob_Head:
+  effect: null
+  duration: null
+Anvil:
+  effect: null
+  duration: null
+Trapped_Chest:
+  effect: null
+  duration: null
+Daylight_Sensor:
+  effect: null
+  duration: null
+Redstone_Block:
+  effect: null
+  duration: null
+Nether_Quartz_Ore:
+  effect: null
+  duration: null
+Hopper:
+  effect: null
+  duration: null
+Quartz_Block:
+  effect: null
+  duration: null
+Chiseled_Quartz_Block:
+  effect: null
+  duration: null
+Pillar_Quartz_Block:
+  effect: null
+  duration: null
+Quartz_Stairs:
+  effect: null
+  duration: null
+Activator_Rail:
+  effect: null
+  duration: null
+Dropper:
+  effect: null
+  duration: null
+White_Hardened_Clay:
+  effect: null
+  duration: null
+Orange_Hardened_Clay:
+  effect: null
+  duration: null
+Magenta_Hardened_Clay:
+  effect: null
+  duration: null
+Light_Blue_Hardened_Clay:
+  effect: null
+  duration: null
+Yellow_Hardened_Clay:
+  effect: null
+  duration: null
+Lime_Hardened_Clay:
+  effect: null
+  duration: null
+Pink_Hardened_Clay:
+  effect: null
+  duration: null
+Gray_Hardened_Clay:
+  effect: null
+  duration: null
+Light_Gray_Hardened_Clay:
+  effect: null
+  duration: null
+Cyan_Hardened_Clay:
+  effect: null
+  duration: null
+Purple_Hardened_Clay:
+  effect: null
+  duration: null
+Blue_Hardened_Clay:
+  effect: null
+  duration: null
+Brown_Hardened_Clay:
+  effect: null
+  duration: null
+Green_Hardened_Clay:
+  effect: null
+  duration: null
+Red_Hardened_Clay:
+  effect: null
+  duration: null
+Black_Hardened_Clay:
+  effect: null
+  duration: null
+White_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Orange_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Magenta_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Light_Blue_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Yellow_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Lime_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Pink_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Gray_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Light_Gray_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Cyan_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Purple_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Blue_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Brown_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Green_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Red_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Black_Stained_Glass_Pane:
+  effect: null
+  duration: null
+Acacia_Leaves:
+  effect: null
+  duration: null
+Dark_Oak_Leaves:
+  effect: null
+  duration: null
+Acacia_Wood:
+  effect: null
+  duration: null
+Dark_Oak_Wood:
+  effect: null
+  duration: null
+Acacia_Wood_Stairs:
+  effect: null
+  duration: null
+Dark_Oak_Wood_Stairs:
+  effect: null
+  duration: null
+Slime_Block:
+  effect: null
+  duration: null
+Barrier:
+  effect: null
+  duration: null
+Iron_Trapdoor:
+  effect: null
+  duration: null
+Prismarine:
+  effect: null
+  duration: null
+Prismarine_Bricks:
+  effect: null
+  duration: null
+Dark_Prismarine:
+  effect: null
+  duration: null
+Sea_Lantern:
+  effect: null
+  duration: null
+Hay_Bale:
+  effect: null
+  duration: null
+White_Carpet:
+  effect: null
+  duration: null
+Orange_Carpet:
+  effect: null
+  duration: null
+Magenta_Carpet:
+  effect: null
+  duration: null
+Light_Blue_Carpet:
+  effect: null
+  duration: null
+Yellow_Carpet:
+  effect: null
+  duration: null
+Lime_Carpet:
+  effect: null
+  duration: null
+Pink_Carpet:
+  effect: null
+  duration: null
+Gray_Carpet:
+  effect: null
+  duration: null
+Light_Gray_Carpet:
+  effect: null
+  duration: null
+Cyan_Carpet:
+  effect: null
+  duration: null
+Purple_Carpet:
+  effect: null
+  duration: null
+Blue_Carpet:
+  effect: null
+  duration: null
+Brown_Carpet:
+  effect: null
+  duration: null
+Green_Carpet:
+  effect: null
+  duration: null
+Red_Carpet:
+  effect: null
+  duration: null
+Black_Carpet:
+  effect: null
+  duration: null
+Hardened_Clay:
+  effect: null
+  duration: null
+Block_of_Coal:
+  effect: null
+  duration: null
+Packed_Ice:
+  effect: null
+  duration: null
+Sunflower:
+  effect: null
+  duration: null
+Lilac:
+  effect: null
+  duration: null
+Double_Tallgrass:
+  effect: null
+  duration: null
+Large_Fern:
+  effect: null
+  duration: null
+Rose_Bush:
+  effect: null
+  duration: null
+Peony:
+  effect: null
+  duration: null
+Free-standing_Banner:
+  effect: null
+  duration: null
+Wall-mounted_Banner:
+  effect: null
+  duration: null
+Inverted_Daylight_Sensor:
+  effect: null
+  duration: null
+Red_Sandstone:
+  effect: null
+  duration: null
+Chiseled_Red_Sandstone:
+  effect: null
+  duration: null
+Smooth_Red_Sandstone:
+  effect: null
+  duration: null
+Red_Sandstone_Stairs:
+  effect: null
+  duration: null
+Double_Red_Sandstone_Slab:
+  effect: null
+  duration: null
+Red_Sandstone_Slab:
+  effect: null
+  duration: null
+Spruce_Fence_Gate:
+  effect: null
+  duration: null
+Birch_Fence_Gate:
+  effect: null
+  duration: null
+Jungle_Fence_Gate:
+  effect: null
+  duration: null
+Dark_Oak_Fence_Gate:
+  effect: null
+  duration: null
+Acacia_Fence_Gate:
+  effect: null
+  duration: null
+Spruce_Fence:
+  effect: null
+  duration: null
+Birch_Fence:
+  effect: null
+  duration: null
+Jungle_Fence:
+  effect: null
+  duration: null
+Dark_Oak_Fence:
+  effect: null
+  duration: null
+Acacia_Fence:
+  effect: null
+  duration: null
+Spruce_Door_Block:
+  effect: null
+  duration: null
+Birch_Door_Block:
+  effect: null
+  duration: null
+Jungle_Door_Block:
+  effect: null
+  duration: null
+Acacia_Door_Block:
+  effect: null
+  duration: null
+Dark_Oak_Door_Block:
+  effect: null
+  duration: null
+End_Rod:
+  effect: null
+  duration: null
+Chorus_Plant:
+  effect: null
+  duration: null
+Chorus_Flower:
+  effect: null
+  duration: null
+Purpur_Block:
+  effect: null
+  duration: null
+Purpur_Pillar:
+  effect: null
+  duration: null
+Purpur_Stairs:
+  effect: null
+  duration: null
+Purpur_Double_Slab:
+  effect: null
+  duration: null
+Purpur_Slab:
+  effect: null
+  duration: null
+End_Stone_Bricks:
+  effect: null
+  duration: null
+Beetroot_Block:
+  effect: null
+  duration: null
+Grass_Path:
+  effect: null
+  duration: null
+End_Gateway:
+  effect: null
+  duration: null
+Repeating_Command_Block:
+  effect: null
+  duration: null
+Chain_Command_Block:
+  effect: null
+  duration: null
+Frosted_Ice:
+  effect: null
+  duration: null
+Magma_Block:
+  effect: null
+  duration: null
+Nether_Wart_Block:
+  effect: null
+  duration: null
+Red_Nether_Brick:
+  effect: null
+  duration: null
+Bone_Block:
+  effect: null
+  duration: null
+Observer:
+  effect: null
+  duration: null
+White_Shulker_Box:
+  effect: null
+  duration: null
+Orange_Shulker_Box:
+  effect: null
+  duration: null
+Magenta_Shulker_Box:
+  effect: null
+  duration: null
+Light_Blue_Shulker_Box:
+  effect: null
+  duration: null
+Yellow_Shulker_Box:
+  effect: null
+  duration: null
+Lime_Shulker_Box:
+  effect: null
+  duration: null
+Pink_Shulker_Box:
+  effect: null
+  duration: null
+Gray_Shulker_Box:
+  effect: null
+  duration: null
+Light_Gray_Shulker_Box:
+  effect: null
+  duration: null
+Cyan_Shulker_Box:
+  effect: null
+  duration: null
+Purple_Shulker_Box:
+  effect: null
+  duration: null
+Blue_Shulker_Box:
+  effect: null
+  duration: null
+Brown_Shulker_Box:
+  effect: null
+  duration: null
+Green_Shulker_Box:
+  effect: null
+  duration: null
+Red_Shulker_Box:
+  effect: null
+  duration: null
+Black_Shulker_Box:
+  effect: null
+  duration: null
+White_Glazed_Terracotta:
+  effect: null
+  duration: null
+Orange_Glazed_Terracotta:
+  effect: null
+  duration: null
+Magenta_Glazed_Terracotta:
+  effect: null
+  duration: null
+Light_Blue_Glazed_Terracotta:
+  effect: null
+  duration: null
+Yellow_Glazed_Terracotta:
+  effect: null
+  duration: null
+Lime_Glazed_Terracotta:
+  effect: null
+  duration: null
+Pink_Glazed_Terracotta:
+  effect: null
+  duration: null
+Gray_Glazed_Terracotta:
+  effect: null
+  duration: null
+Light_Gray_Glazed_Terracotta:
+  effect: null
+  duration: null
+Cyan_Glazed_Terracotta:
+  effect: null
+  duration: null
+Purple_Glazed_Terracotta:
+  effect: null
+  duration: null
+Blue_Glazed_Terracotta:
+  effect: null
+  duration: null
+Brown_Glazed_Terracotta:
+  effect: null
+  duration: null
+Green_Glazed_Terracotta:
+  effect: null
+  duration: null
+Red_Glazed_Terracotta:
+  effect: null
+  duration: null
+Black_Glazed_Terracotta:
+  effect: null
+  duration: null
+White_Concrete:
+  effect: null
+  duration: null
+Orange_Concrete:
+  effect: null
+  duration: null
+Magenta_Concrete:
+  effect: null
+  duration: null
+Light_Blue_Concrete:
+  effect: null
+  duration: null
+Yellow_Concrete:
+  effect: null
+  duration: null
+Lime_Concrete:
+  effect: null
+  duration: null
+Pink_Concrete:
+  effect: null
+  duration: null
+Gray_Concrete:
+  effect: null
+  duration: null
+Light_Gray_Concrete:
+  effect: null
+  duration: null
+Cyan_Concrete:
+  effect: null
+  duration: null
+Purple_Concrete:
+  effect: null
+  duration: null
+Blue_Concrete:
+  effect: null
+  duration: null
+Brown_Concrete:
+  effect: null
+  duration: null
+Green_Concrete:
+  effect: null
+  duration: null
+Red_Concrete:
+  effect: null
+  duration: null
+Black_Concrete:
+  effect: null
+  duration: null
+White_Concrete_Powder:
+  effect: null
+  duration: null
+Orange_Concrete_Powder:
+  effect: null
+  duration: null
+Magenta_Concrete_Powder:
+  effect: null
+  duration: null
+Light_Blue_Concrete_Powder:
+  effect: null
+  duration: null
+Yellow_Concrete_Powder:
+  effect: null
+  duration: null
+Lime_Concrete_Powder:
+  effect: null
+  duration: null
+Pink_Concrete_Powder:
+  effect: null
+  duration: null
+Gray_Concrete_Powder:
+  effect: null
+  duration: null
+Light_Gray_Concrete_Powder:
+  effect: null
+  duration: null
+Cyan_Concrete_Powder:
+  effect: null
+  duration: null
+Purple_Concrete_Powder:
+  effect: null
+  duration: null
+Blue_Concrete_Powder:
+  effect: null
+  duration: null
+Brown_Concrete_Powder:
+  effect: null
+  duration: null
+Green_Concrete_Powder:
+  effect: null
+  duration: null
+Red_Concrete_Powder:
+  effect: null
+  duration: null
+Black_Concrete_Powder:
+  effect: null
+  duration: null
