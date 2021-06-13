@@ -40,7 +40,9 @@
 
 
 # CONFIG:
-
+Air:
+  effect: null
+  duration: null
 Stone:
   effect: null
   duration: null
